@@ -1,12 +1,29 @@
-# Teorema de Fermat — Primer cuatrimestre de 2011
+# Teorema de Fermat
 
-## Prácticas
+Up one level
 
-- [practica1.pdf](practica1.pdf)
-- [practica2.pdf](practica2.pdf)
-- [practica3.pdf](practica3.pdf)
-- [practica4.pdf](practica4.pdf)
+Teorema de Fermat practica1
 
-## Página original
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2011/teorema_de_Fermat/)
+Teorema de Fermat Teorema de Fermat
+
+
+[Teorema de Fermat](practica1.pdf) <practica1.pdf>
+
+
+Teorema de Fermat practica2
+
+
+[Teorema de Fermat](practica2.pdf) <practica2.pdf>
+
+
+Teorema de Fermat practica3
+
+
+[Teorema de Fermat](practica3.pdf) <practica3.pdf>
+
+
+Teorema de Fermat practica4
+
+
+[Teorema de Fermat](practica4.pdf) <practica4.pdf>
